@@ -1,0 +1,4 @@
+KMeans_cluster,SC_shortfall_pct,PHC_shortfall_pct,CHC_shortfall_pct,PHC_doctors_shortfall_pct,CHC_specialists_shortfall_pct,State_UT_count
+High shortfall,32.82,33.55,38.64,2.09,86.12,11
+Low shortfall,0.0,4.0,36.75,0.19,37.77,4
+Moderate shortfall,1.72,0.56,4.61,21.64,93.23,18

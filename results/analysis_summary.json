@@ -1,0 +1,25 @@
+{
+  "dataset_rows": 36,
+  "rows_used_for_clustering": 33,
+  "excluded_incomplete_rows": 3,
+  "feature_count": 5,
+  "kmeans_k": 3,
+  "kmeans_silhouette": 0.4452930320385755,
+  "kmeans_davies_bouldin": 0.851441812789337,
+  "hierarchical_k": 3,
+  "hierarchical_silhouette": 0.4452930320385755,
+  "hierarchical_davies_bouldin": 0.851441812789337,
+  "cluster_counts": {
+    "Moderate shortfall": 18,
+    "High shortfall": 11,
+    "Low shortfall": 4
+  },
+  "feature_names": [
+    "SC_shortfall_pct",
+    "PHC_shortfall_pct",
+    "CHC_shortfall_pct",
+    "PHC_doctors_shortfall_pct",
+    "CHC_specialists_shortfall_pct"
+  ],
+  "note": "Cluster IDs are arbitrary; names assigned by ascending mean feature shortfall."
+}
